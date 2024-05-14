@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\bin\Debug\net8.0\Курсач.exe
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\bin\Debug\net8.0\Курсач.deps.json
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\bin\Debug\net8.0\Курсач.runtimeconfig.json
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\bin\Debug\net8.0\Курсач.dll
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\bin\Debug\net8.0\Курсач.pdb
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.sourcelink.json
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.dll
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\refint\Курсач.dll
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.pdb
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\Курсач.genruntimeconfig.cache
+C:\Users\Админ\Desktop\Новая папка\Курсач\Курсач\obj\Debug\net8.0\ref\Курсач.dll
